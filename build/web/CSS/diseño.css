@@ -1,0 +1,188 @@
+.inf{
+    background: url(https://cdn.pixabay.com/photo/2018/07/10/07/56/business-3528035_1280.jpg)
+        no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.login{
+    background:#41A5EE;
+    height:50hv;
+}
+.adv{
+    background:#000;
+}
+.center{
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    width:659px;
+    padding:10px;
+    
+}
+.capsula-fac-m {
+    background: #Fff;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 30%;
+    padding: 10px;
+    float:left;
+}
+.input-fac{
+    background-color: transparent !important;
+    border: none;
+    font-size: 110%;
+    margin-right:-15%;
+    color:gray;
+    font-family: Arial;
+}
+.input-face{
+    background-color: transparent !important;
+    border: none;
+    font-size: 110%;
+    margin-right:55px;
+    color:gray;
+    width:500px;
+    font-family: Arial;
+}
+.txt{
+    
+    background-color: transparent !important;
+    border: none;
+}
+.capsula-fac {
+    background: #F5F5F5;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-top: 40px;
+    width: 30%;
+    padding: 25px;
+    float:left;
+}
+.capsula {
+    background: #F5F5F5;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-top: 70px;
+    width: 25%;
+    padding: 25px;
+    float:left;
+}
+.capsula-edit {
+    background: #F5F5F5;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 25%;
+    padding: 25px;
+    float:left;
+}
+.caja{
+    background: #F5F5F5;
+    width:100%;
+    padding:20px;
+}
+.capsula1 {
+    background: #F5F5F5;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 20%;
+    margin-top: 70px;
+    width: 25%;
+    padding: 25px;
+    float:left;
+}
+.party {
+    display: flex;
+}
+.party-flex {
+    float: right;
+}
+.img {
+    border-radius: 130%;
+    font-size: calc( 0.9+ 1vw);
+    transition: solid .5s;
+}
+.texturas{
+    background-color: transparent !important;
+    border: none;
+    font-size: 150%;
+    color:gray;
+    font-family: Arial;
+}
+.min-texturas{
+    background-color: transparent !important;
+    border: none;
+    font-size: 100%;
+    color:gray;
+    font-family: Arial;
+    margin-left:80%;
+}
+.min-texturas-txt{
+    background-color: transparent !important;
+    border: none;
+    font-size: 100%;
+    color:gray;
+    font-family: Arial;
+    margin-left:72.2%;
+}
+.fecha{
+    background-color: transparent !important;
+    border: none;
+    font-size: 100%;
+    color:gray;
+    font-family: Arial;
+    margin-left:55%;
+}
+.max-texturas{
+    background-color: transparent !important;
+    border: none;
+    font-size: 250%;
+    color:gray;
+    font-family: Arial;
+}
+.botones{
+    margin-left:60%;
+}
+.botones-d{
+    margin-left:52%;
+}
+.botones-edit{
+    margin-left:75%;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+}
+.pdf{
+    width:500px;
+    padding:25px;
+    border-radius: 5px;
+    border-color: rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid;
+}
+.sub-fac{
+    height:85vh;
+    overflow-y: auto;
+    justify-content: center;
+}
+   
